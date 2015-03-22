@@ -1,0 +1,12 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": false,
+    "no-console": false,
+    "no-multiple-empty-lines": false
+  },
+  "env": {
+    "mocha": true,
+    "node": true
+  }
+}
